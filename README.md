@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wangdepin
-- 👀 I’m interested in AI in drug discovery
+- 👀 I’m interested in AI in drug discovery and alternative splicing
 - 🌱 I’m currently learning machine learning with genomics
 
 <!---
